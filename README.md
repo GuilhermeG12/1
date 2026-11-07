@@ -56,3 +56,8 @@ Os dados ficam só no seu computador.
 ```
 python -m unittest discover -s tests
 ```
+
+## Automático pela nuvem (Google Planilhas)
+
+Com o app HC Webhook no celular, os dados vão sozinhos para uma Planilha Google.
+Veja [google_planilhas/COMO_USAR.md](google_planilhas/COMO_USAR.md).
