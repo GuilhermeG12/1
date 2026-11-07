@@ -1,0 +1,4 @@
+com.samsung.shealth.exercise,6315005,3
+total_calorie,com.samsung.health.exercise.duration,com.samsung.health.exercise.exercise_type,com.samsung.health.exercise.start_time,com.samsung.health.exercise.end_time,com.samsung.health.exercise.distance,com.samsung.health.exercise.calorie,com.samsung.health.exercise.time_offset,com.samsung.health.exercise.datauuid,
+300,1800000,1002,2026-11-05 10:00:00.000,2026-11-05 10:30:00.000,5000,300,UTC-0300,e1,
+150,2700000,1001,2026-11-06 21:00:00.000,2026-11-06 21:45:00.000,3500,150,UTC-0300,e2,
